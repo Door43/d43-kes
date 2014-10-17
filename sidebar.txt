@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kes:home|Door43 (kes)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kes|d43-kes repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kes/archive/master.zip|d43-kes.zip]]
+
+**Recent Changes**
+{{changes>ns = kes}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kes|Ethnologue data]]
+
